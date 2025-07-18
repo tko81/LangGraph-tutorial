@@ -165,3 +165,8 @@ Install all dependencies with:
 uv pip install -r requirements.txt
 ```
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=iamvaibhavmehra/LangGraph-Course-freeCodeCamp&type=Date)](https://www.star-history.com/#iamvaibhavmehra/LangGraph-Course-freeCodeCamp&Date)
+

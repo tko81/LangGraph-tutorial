@@ -7,3 +7,5 @@ dotenv
 typing
 chromadb
 langchain_chroma
+dotenv
+ipykernel

@@ -6,4 +6,4 @@
 **/*.toml
 **/*.lock
 .vscode/
-.
+.python-version

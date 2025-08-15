@@ -3,6 +3,7 @@ langchain
 ipython
 langchain_openai
 langchain_community
+langchain-tavily
 dotenv
 typing
 chromadb
